@@ -17,7 +17,7 @@ class App extends BaseConfig
      *
      *    http://example.com/
      */
-    public string $baseURL = 'http://localhost/builder';
+    public string $baseURL = 'https://rohaanmehta.github.io/builder2';
 
     /**
      * Allowed Hostnames in the Site URL other than the hostname in the baseURL.
